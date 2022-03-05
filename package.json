@@ -9698,7 +9698,7 @@
 		"iconv-lite": "0.6.2",
 		"lodash-es": "4.17.21",
 		"node-fetch": "3.0.0-beta.9",
-		"node-sass": "^6.0.0",
+		"node-sass": "^7.0.0",
 		"sortablejs": "1.13.0",
 		"vscode-codicons": "0.0.16",
 		"vsls": "1.0.3015"
